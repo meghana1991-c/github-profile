@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# 👋 Hi, I’m Meghana Chelamalla
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Senior Software Engineer | Java | Spring Boot | React | Cloud**
 
-## Available Scripts
+I’m a Senior Software Engineer with experience building **scalable, enterprise-grade backend systems** and **modern React-based frontends**. I’ve worked across healthcare, manufacturing, insurance, and HCM domains, focusing on reliability, performance, and clean system design.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 💼 What I Do
+- Build **Java (6–17) & Spring Boot** microservices
+- Design **REST APIs & event-driven systems** (Kafka, messaging)
+- Develop **React dashboards & SPAs**
+- Work with **AWS & Azure** cloud platforms
+- Optimize systems for **scalability, stability, and observability**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+**Languages**
+- Java, JavaScript, TypeScript, Python, SQL
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Backend**
+- Spring Boot, Spring MVC, Spring Security, Hibernate, JPA
+- REST APIs, Microservices, Kafka
 
-### `npm run build`
+**Frontend**
+- React, Redux, HTML, CSS, Bootstrap
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Cloud & DevOps**
+- AWS (EC2, S3, EKS, Lambda)
+- Azure (App Services, AAD, Functions)
+- Docker, Kubernetes, CI/CD
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Databases**
+- PostgreSQL, MySQL, Oracle, MongoDB, Redis
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Experience Highlights
+- Modernized legacy Java 8 applications to **Java 17 microservices**
+- Built **real-time data pipelines & dashboards** using Kafka and React
+- Designed **cloud-native architectures** on AWS and Azure
+- Improved system stability by addressing latency, bottlenecks, and failures
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
