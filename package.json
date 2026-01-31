@@ -1,7 +1,7 @@
 {
   "name": "github-profile",
   "version": "0.1.0",
-  "homepage": "https://meghana1991-c.github.io",
+  "homepage": "https://meghana1991-c.github.io/github-profile",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
