@@ -14,6 +14,33 @@ body {
   color: #1f2933;
   line-height: 1.65;
 }
+/* Centered Header */
+.header-center {
+  text-align: center;
+}
+
+/* Section titles spacing consistency */
+.section h2 {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Contact Section */
+.contact-section p {
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+
+.contact-section a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact-section a:hover {
+  text-decoration: underline;
+}
+
 
 /* -----------------------------
    Layout Container
