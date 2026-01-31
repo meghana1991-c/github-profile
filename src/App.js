@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="container">
       {/* Header */}
+      <title>Meghana Chelamalla - Senior Software Engineer</title>
       <header className="header">
   <h1>Meghana Chelamalla</h1>
   <p className="title">Senior Software Engineer • Java • Spring Boot • React</p>
