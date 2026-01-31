@@ -26,36 +26,83 @@ function App() {
 
       {/* SKILLS */}
       <section className="section">
-        <h2>Technical Skills</h2>
-        <table className="skills-table">
-          <tbody>
-            <tr>
-              <th>Backend</th>
-              <td>
-                Java (6–17), Spring Boot, Spring MVC, Spring Security,
-                Spring WebFlux, Hibernate, JPA
-              </td>
-            </tr>
-            <tr>
-              <th>Frontend</th>
-              <td>React, Redux, TypeScript, JavaScript, HTML, CSS</td>
-            </tr>
-            <tr>
-              <th>Cloud & DevOps</th>
-              <td>
-                AWS, Azure, GCP, Docker, Kubernetes (EKS), Terraform, CI/CD
-              </td>
-            </tr>
-            <tr>
-              <th>Messaging & Data</th>
-              <td>
-                Apache Kafka, RabbitMQ, Redis, PostgreSQL, MongoDB,
-                Oracle, Redshift
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </section>
+  <h2>Technical Skills</h2>
+  <table className="skills-table">
+    <tbody>
+      <tr>
+        <th>Backend</th>
+        <td>
+          Java (6–17), Spring Boot, Spring MVC, Spring Security, Spring WebFlux,
+          Hibernate, JPA, Python, Flask, FastAPI, Node.js, Express.js
+        </td>
+      </tr>
+
+      <tr>
+        <th>Frontend</th>
+        <td>
+          React, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3
+        </td>
+      </tr>
+
+      <tr>
+        <th>JavaScript Runtime</th>
+        <td>
+          Node.js, npm, yarn, Event Loop, Async/Await, Promises, REST APIs
+        </td>
+      </tr>
+
+      <tr>
+        <th>Cloud & DevOps</th>
+        <td>
+          AWS, Azure, GCP, Docker, Kubernetes (EKS), Terraform,
+          CI/CD (GitHub Actions, Jenkins, Azure DevOps)
+        </td>
+      </tr>
+
+      <tr>
+        <th>Databases</th>
+        <td>
+          PostgreSQL, MySQL, Oracle, MongoDB, DynamoDB, Cassandra,
+          Redis, Amazon Redshift
+        </td>
+      </tr>
+
+      <tr>
+        <th>Messaging & Streaming</th>
+        <td>
+          Apache Kafka, Kafka Streams, RabbitMQ, ActiveMQ, AWS SQS,
+          Azure Service Bus
+        </td>
+      </tr>
+
+      <tr>
+        <th>Security</th>
+        <td>
+          OAuth 2.0, JWT, RBAC, API Gateway Security,
+          Token Lifecycle Management
+        </td>
+      </tr>
+
+      <tr>
+        <th>Testing & Observability</th>
+        <td>
+          JUnit, Mockito, Testcontainers, Jest, Cypress,
+          Prometheus, Grafana, Splunk, AWS CloudWatch
+        </td>
+      </tr>
+
+      <tr>
+        <th>Architecture & Practices</th>
+        <td>
+          Microservices, Event-Driven Architecture, REST,
+          Reactive Programming, Distributed Systems,
+          System Design, Agile/Scrum
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
 
       {/* DOMAINS */}
       <section className="section">
